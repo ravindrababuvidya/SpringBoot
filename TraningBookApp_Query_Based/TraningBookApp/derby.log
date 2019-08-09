@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 05 17:45:29 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016c-61b4-b969-00000f76a6d8 
+on database directory memory:/Users/vidyayugmac10/Documents/Ravindra_Babu/Springboot/TraningBookApp/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/vidyayugmac10/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-b12
+user.dir=/Users/vidyayugmac10/Documents/Ravindra_Babu/Springboot/TraningBookApp
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
